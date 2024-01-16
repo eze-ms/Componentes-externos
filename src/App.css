@@ -1,0 +1,38 @@
+.container-header{
+  display: flex;
+    justify-content: space-between;
+    background-color: #343434;
+    padding: 20px;
+    align-items: center;
+}
+
+ul{
+  list-style: none;
+  
+}
+#logo{
+  width: 10%;
+}
+img{
+  max-width: 100%;
+}
+
+#menu ul {
+  list-style-type: none;
+ 
+}
+
+#menu a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #ffff;
+  margin-right: 20px;
+}
+
+h1{
+  margin: 0;
+}
+
+
+
+

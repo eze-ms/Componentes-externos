@@ -1,0 +1,15 @@
+.custom-table-row {
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+  }
+  .custom-lista-peliculas{
+    text-align: center;
+  }
+  ul{
+    padding-left: 0;
+  }
+
+  h1, h2 {
+    color: #ff1c0b;
+  }

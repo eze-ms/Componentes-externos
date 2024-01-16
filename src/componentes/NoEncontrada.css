@@ -1,0 +1,9 @@
+.custom-not-found {
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 2px;
+  }
+
+  .custom-not-found img{
+    width: 80px;
+  }

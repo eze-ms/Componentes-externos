@@ -1,0 +1,10 @@
+{
+    "action": "create",
+    "movie": {
+      "title": "Título de la película",
+      "year": 1999,
+      "director": "Pepe Perez",
+      "synopsis": "Bla bla bla"
+    }
+  }
+  

@@ -1,0 +1,10 @@
+.custom-nombre-peli{
+    margin-bottom: 10px !important;
+    border-bottom: 0.5px solid #c7c7c7;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+.custom-button-peli{
+    margin-left: 20px !important;
+}
